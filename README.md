@@ -1,2 +1,2 @@
 # try-Git
-Firs try
+First try
